@@ -111,21 +111,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshMishra1706&theme=tokyo-night"/>
 </p>
 
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshMishra1706&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShreyanshMishra1706&theme=onedark&row=1&column=6"/>
-</p>
 
 ---
 
